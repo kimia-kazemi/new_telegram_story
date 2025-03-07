@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Stacy",
+    "is_admin": true,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PyKYrBKAWWy6YCbQzWQcwIRqH8wYMPluIZiMpV1w0NYSbocTZz0ICWFkLcXhaMyvCwQ&usqp=CAU",
+    "id": "100",
+    "number_of_stories": 4,
+    "seen_stories": 0,
+    "unseen_id": 1,
+    "media": [
+      {
+        "id": 1,
+        "type": "image",
+        "url": "https://hirsagol.com/wp-content/uploads/2019/03/red-rose.jpg",
+        "duration": 5
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lotus_flower_%28978659%29.jpg/563px-Lotus_flower_%28978659%29.jpg",
+        "duration": 10
+      },
+      {
+        "id": 3,
+        "type": "image",
+        "url": "https://www.gandomvip.com/wp-content/uploads/2020/05/ezgif.com-gif-maker-2022-08-27T134456.441.webp",
+        "duration": 4
+      },
+      {
+        "id": 4,
+        "type": "video",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "duration": 180
+      }
+    ]
+  },
+  {
+    "name": "Mike",
+    "is_admin": false,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQth45O1Djh9qUrlqPSP734V1d_GryxuQvsuA&s",
+    "id": "101",
+    "number_of_stories": 2,
+    "seen_stories": 1,
+    "unseen_id": 6,
+    "media": [
+      {
+        "id": 5,
+        "type": "image",
+        "url": "https://iusnews.ir/images/news/459657/gallery/26098.jpg",
+        "duration": 5
+      },
+      {
+        "id": 6,
+        "type": "image",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnVFsMiyxzgXmATXZ-OAKb1cyXzQhNd-dEQ&s",
+        "duration": 10
+      }
+    ]
+  }
+]
